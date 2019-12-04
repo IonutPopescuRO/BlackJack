@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BlackJack</string>
+    <string name="welcome_text">BlackJack [21]</string>
+    <string name="rules_title">Cum se joaca:</string>
+    <string name="rules_text">
+        \n 1. Apasa pe butonul <font fgcolor="#ffff0000">Incepe</font>
+        \n 2. Apasa pe butonul <font fgcolor="#ffff0000">Ia o carte</font>
+        \n 3. Cartile fiecarui jucator apar in partea de sus, respectiv partea de jos a ecranului
+        \n 4. Jucatorul care strange primul <font fgcolor="#ffff0000">21</font> de puncte, castiga
+        \n 5. In cazul in care se dapasesc <font fgcolor="#ffff0000">21</font> de puncte, jucatorul pierde automat
+    </string>
+    <string name="enter_button">Incepe</string>
+    <string name="button_take_card">Ia carte</string>
+    <string name="stop_here">Ma opresc aici</string>
+    <string name="game_result_text"></string>
+    <string name="button_reset">Joaca din nou</string>
+</resources>
